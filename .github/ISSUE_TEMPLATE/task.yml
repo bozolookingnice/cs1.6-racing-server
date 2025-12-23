@@ -1,0 +1,19 @@
+name: Task
+description: Internal technical work
+labels: ["task"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Task
+      description: What needs to be implemented?
+    validations:
+      required: true
+
+  - type: textarea
+    id: files
+    attributes:
+      label: Affected Files
+      description: Files or modules involved
+    validations:
+      required: true

@@ -1,0 +1,27 @@
+name: Feature
+description: Player-facing functionality
+labels: ["feature"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What does the player experience?
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: AMXX / Metamod / Engine
+    validations:
+      required: true
+
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of Done
+      description: Clear, testable conditions
+    validations:
+      required: true
