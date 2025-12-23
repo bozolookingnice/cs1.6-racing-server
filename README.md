@@ -1,5 +1,18 @@
 # cs1.6-racing-server
-🧾 CS 1.6 Racing Mod — FULL ITEMIZED FEATURE LIST (MARKED)
+🧾 CS 1.6 Racing Mod — FULL ITEMIZED FEATURE LIS
+
+[AMXX] → done in AMX Mod X (Pawn, server-side script)
+
+[MM] → done in Metamod plugin (C/C++, engine hooks)
+
+[AMXX/MM] → starts in AMXX, refined or assisted by Metamod
+
+[MAP] → mapping work (Hammer)
+
+[ASSET] → models/sounds/sprites
+
+[INFRA] → server / tooling
+
 🎮 Core Game Mode
 
 Disable all weapons [AMXX]
