@@ -1,5 +1,5 @@
 # cs1.6-racing-server
-🧾 CS 1.6 Racing Mod — FULL ITEMIZED FEATURE LIS
+🧾 CS 1.6 Racing Mod
 
 [AMXX] → done in AMX Mod X (Pawn, server-side script)
 
